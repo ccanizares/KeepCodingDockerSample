@@ -12,6 +12,6 @@ This sample is developed just for playing with docker-compose and asp.net core. 
 Build and Compose:
 <img src='https://github.com/ccanizares/KeepCodingDockerSample/edit/master/assets/build.png' />
 
-Go to http://localhost:5000
+Go to <a href='http://localhost:5000'>http://localhost:5000</a>
 <img src='https://github.com/ccanizares/KeepCodingDockerSample/edit/master/assets/web.png' />
 
