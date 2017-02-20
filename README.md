@@ -8,6 +8,10 @@ This sample is developed just for playing with docker-compose and asp.net core. 
 3 - I've used the default template in VS for asp.net mvc that still uses bower..., so you need to install globally npm install -g bower<br>
 4 - Run build-images.ps1. <br>
 5 - Open power shell command line and write docker-compose up. <br>
+<br>
+Build and Compose:
+<img src='https://github.com/ccanizares/KeepCodingDockerSample/edit/master/assets/build.png' />
 
 Go to http://localhost:5000
+<img src='https://github.com/ccanizares/KeepCodingDockerSample/edit/master/assets/web.png' />
 
