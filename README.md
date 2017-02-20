@@ -10,8 +10,8 @@ This sample is developed just for playing with docker-compose and asp.net core. 
 5 - Open power shell command line and write docker-compose up. <br>
 <br>
 Build and Compose:
-<img src='https://github.com/ccanizares/KeepCodingDockerSample/edit/master/assets/build.png' />
+<img src='https://github.com/ccanizares/KeepCodingDockerSample/blob/master/assets/build.png' />
 
 Go to <a href='http://localhost:5000'>http://localhost:5000</a>
-<img src='https://github.com/ccanizares/KeepCodingDockerSample/edit/master/assets/web.png' />
+<img src='https://github.com/ccanizares/KeepCodingDockerSample/blob/master/assets/web.png' />
 
