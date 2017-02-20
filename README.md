@@ -6,8 +6,8 @@ This sample is developed just for playing with docker-compose and asp.net core. 
 1 - You need to install <a href='https://docs.docker.com/docker-for-windows/install/'>docker windows</a>. <br>
 2 - Install a version of asp.net core sdk that supports project.json (previous to 1.1). If you download a different sdk version than 1.0.0-preview2-003131 you have to specify the version you want to use at global.json file that is located in the root of this solution.<br>
 3 - I've used the default template in VS for asp.net mvc that still uses bower..., so you need to install globally npm install -g bower<br>
-3 - Run build-images.ps1. <br>
-4 - Open power shell command line and write docker-compose up. <br>
+4 - Run build-images.ps1. <br>
+5 - Open power shell command line and write docker-compose up. <br>
 
 Go to http://localhost:5000
 
