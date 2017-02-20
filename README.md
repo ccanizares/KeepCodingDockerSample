@@ -8,4 +8,5 @@ This sample is developed just for playing with docker-compose and asp.net core. 
 3 - Run build-images.ps1. <br>
 4 - Open power shell command line and write docker-compose up. <br>
 
+Go to http://localhost:5000:
 
