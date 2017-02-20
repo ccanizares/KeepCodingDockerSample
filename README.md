@@ -1,5 +1,5 @@
 # Keep Coding Asp.Net Core Docker Sample
-Fake Microservices scenario dev in asp.net core 1.0, just to practice with docker-compose. 
+Fake Microservices scenario dev in asp.net core 1.0, just to practice with docker-compose (not using swarm for the moment). 
 
 This sample is developed just for playing with docker-compose and asp.net core. Is developed in asp.net core 1.0 and project.json project type so it couldn't be openned with Visual Studio 2017, you need Visual Studio 2015 update 3 or Visual Studio Code. 
 
